@@ -5,7 +5,8 @@ QA_NONE = "no answer..."
 
 qa_list = [
     ["k8s", "kubernetes"],
-    ["vscode", "visual stadio code"]
+    ["vscode", "visual stadio code"],
+    ["quest", "answer2"]
 ]
 
 
