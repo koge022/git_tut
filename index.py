@@ -6,11 +6,7 @@ QA_NONE = "no answer..."
 qa_list = [
     ["k8s", "kubernetes"],
     ["vscode", "visual stadio code"],
-<<<<<<< HEAD
     ["nw", "network"]
-=======
-    ["quest", "answer2"]
->>>>>>> new-branch-2
 ]
 
 
