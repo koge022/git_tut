@@ -4,8 +4,8 @@ INPUT_PH = "?>"
 QA_NONE = "no answer..."
 
 qa_list = [
-    ["a.*b", "ab"],
-    ["c.*d", "cd"]
+    ["k8s", "kubernetes"],
+    ["vscode", "visual stadio code"]
 ]
 
 
